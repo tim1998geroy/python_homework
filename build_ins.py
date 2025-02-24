@@ -1,8 +1,8 @@
 # # Задание 1
-# names = ['Nikita', 'Katana', 'Toma']
-# ages = [25, 30, 35]
+names = ['Nikita', 'Katana', 'Toma']
+ages = [25, 30, 35]
 
-# print(dict(zip(names, ages)))
+print(dict(zip(names, ages)))
 
 # Задание 2
 # text = "python"
